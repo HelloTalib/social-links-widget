@@ -20,5 +20,4 @@ define('PUBLIC_DIR', plugin_dir_url(__FILE__) . 'assets/public');
 define('ADMIN_DIR', plugin_dir_url(__FILE__) . 'assets/admin');
 
 require_once plugin_dir_path(__FILE__) . '/includes/social-links-widget-scripts.php';
-require_once plugin_dir_path(__FILE__) . '/includes/social-links-widget-content.php';
 require_once plugin_dir_path(__FILE__) . '/includes/social-links-widget-class.php';
