@@ -1,4 +1,5 @@
 <?php
+
 class social_links_widget_Scripts {
 
 	public function __construct() {
